@@ -1,0 +1,139 @@
+{
+  "match_id": "VALORANT_11-01-2026_15-58-51-443",
+  "match_date": "2026-11-01",
+  "total_recordings": 23,
+  "total_kills": 10,
+  "total_deaths": 13,
+  "selected_montage_clips": [
+    {
+      "name": "VALORANT 11-01-2026 16-02-37-113.mp4",
+      "path": "Y:\\Videos\\Valorant Tracker\\VALORANT\\VALORANT_11-01-2026_15-58-51-443\\VALORANT 11-01-2026 16-02-37-113.mp4",
+      "time": "16:02:37",
+      "type": "KILL",
+      "kill_count": 1,
+      "weapon": "Vandal",
+      "headshots": 1,
+      "victims": [
+        "Ashborn"
+      ],
+      "size_mb": 55.3
+    },
+    {
+      "name": "VALORANT 11-01-2026 16-06-07-502.mp4",
+      "path": "Y:\\Videos\\Valorant Tracker\\VALORANT\\VALORANT_11-01-2026_15-58-51-443\\VALORANT 11-01-2026 16-06-07-502.mp4",
+      "time": "16:06:07",
+      "type": "KILL",
+      "kill_count": 1,
+      "weapon": "Vandal",
+      "headshots": 1,
+      "victims": [
+        "I am"
+      ],
+      "size_mb": 131.52
+    },
+    {
+      "name": "VALORANT 11-01-2026 16-13-05-327.mp4",
+      "path": "Y:\\Videos\\Valorant Tracker\\VALORANT\\VALORANT_11-01-2026_15-58-51-443\\VALORANT 11-01-2026 16-13-05-327.mp4",
+      "time": "16:13:05",
+      "type": "KILL",
+      "kill_count": 1,
+      "weapon": "Phantom",
+      "headshots": 1,
+      "victims": [
+        "shadow0908"
+      ],
+      "size_mb": 51.23
+    },
+    {
+      "name": "VALORANT 11-01-2026 16-21-39-522.mp4",
+      "path": "Y:\\Videos\\Valorant Tracker\\VALORANT\\VALORANT_11-01-2026_15-58-51-443\\VALORANT 11-01-2026 16-21-39-522.mp4",
+      "time": "16:21:39",
+      "type": "KILL",
+      "kill_count": 1,
+      "weapon": "Vandal",
+      "headshots": 1,
+      "victims": [
+        "Ashborn"
+      ],
+      "size_mb": 69.39
+    },
+    {
+      "name": "VALORANT 11-01-2026 16-22-26-176.mp4",
+      "path": "Y:\\Videos\\Valorant Tracker\\VALORANT\\VALORANT_11-01-2026_15-58-51-443\\VALORANT 11-01-2026 16-22-26-176.mp4",
+      "time": "16:22:26",
+      "type": "KILL",
+      "kill_count": 1,
+      "weapon": "Vandal",
+      "headshots": 1,
+      "victims": [
+        "I am"
+      ],
+      "size_mb": 130.28
+    },
+    {
+      "name": "VALORANT 11-01-2026 16-26-13-603.mp4",
+      "path": "Y:\\Videos\\Valorant Tracker\\VALORANT\\VALORANT_11-01-2026_15-58-51-443\\VALORANT 11-01-2026 16-26-13-603.mp4",
+      "time": "16:26:13",
+      "type": "KILL",
+      "kill_count": 1,
+      "weapon": "Vandal",
+      "headshots": 1,
+      "victims": [
+        "I am"
+      ],
+      "size_mb": 50.62
+    },
+    {
+      "name": "VALORANT 11-01-2026 16-09-30-959.mp4",
+      "path": "Y:\\Videos\\Valorant Tracker\\VALORANT\\VALORANT_11-01-2026_15-58-51-443\\VALORANT 11-01-2026 16-09-30-959.mp4",
+      "time": "16:09:30",
+      "type": "KILL",
+      "kill_count": 1,
+      "weapon": "Vandal",
+      "headshots": 0,
+      "victims": [
+        "shadow0908"
+      ],
+      "size_mb": 50.66
+    },
+    {
+      "name": "VALORANT 11-01-2026 16-17-02-627.mp4",
+      "path": "Y:\\Videos\\Valorant Tracker\\VALORANT\\VALORANT_11-01-2026_15-58-51-443\\VALORANT 11-01-2026 16-17-02-627.mp4",
+      "time": "16:17:02",
+      "type": "KILL",
+      "kill_count": 1,
+      "weapon": "Vandal",
+      "headshots": 0,
+      "victims": [
+        "shadow0908"
+      ],
+      "size_mb": 88.58
+    },
+    {
+      "name": "VALORANT 11-01-2026 16-20-09-840.mp4",
+      "path": "Y:\\Videos\\Valorant Tracker\\VALORANT\\VALORANT_11-01-2026_15-58-51-443\\VALORANT 11-01-2026 16-20-09-840.mp4",
+      "time": "16:20:09",
+      "type": "KILL",
+      "kill_count": 1,
+      "weapon": "Primary",
+      "headshots": 0,
+      "victims": [
+        "daddyzdanny"
+      ],
+      "size_mb": 71.84
+    },
+    {
+      "name": "VALORANT 11-01-2026 16-29-19-879.mp4",
+      "path": "Y:\\Videos\\Valorant Tracker\\VALORANT\\VALORANT_11-01-2026_15-58-51-443\\VALORANT 11-01-2026 16-29-19-879.mp4",
+      "time": "16:29:19",
+      "type": "KILL",
+      "kill_count": 1,
+      "weapon": "Vandal",
+      "headshots": 0,
+      "victims": [
+        "shadow0908"
+      ],
+      "size_mb": 50.84
+    }
+  ]
+}

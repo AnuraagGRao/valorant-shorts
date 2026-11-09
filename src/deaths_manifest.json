@@ -1,0 +1,90 @@
+[
+  {
+    "index": 1,
+    "file": "deaths/death_01.mp4",
+    "durationInFrames": 156,
+    "killer": "Ashborn",
+    "weapon": "Tour De Force",
+    "headshot": true,
+    "time_str": "16-27-26",
+    "actionText": "CHAMBER TOUR DE FORCE \ud83d\udca5",
+    "subText": "ASHBORN SNIPED FROM DOWNTOWN"
+  },
+  {
+    "index": 2,
+    "file": "deaths/death_02.mp4",
+    "durationInFrames": 156,
+    "killer": "I am",
+    "weapon": "Operator",
+    "headshot": true,
+    "time_str": "16-32-13",
+    "actionText": "OPERATOR JUMP SCARE \ud83d\udc80",
+    "subText": "\"I AM\" WAITING ON THE ANGLE"
+  },
+  {
+    "index": 3,
+    "file": "deaths/death_03.mp4",
+    "durationInFrames": 156,
+    "killer": "Perambur Puluthi",
+    "weapon": "Aeris Vandal",
+    "headshot": true,
+    "time_str": "16-13-05",
+    "actionText": "TRADED IN 200MS \u23f1\ufe0f",
+    "subText": "KILLED ONE, INSTANTLY DELETED"
+  },
+  {
+    "index": 4,
+    "file": "deaths/death_04.mp4",
+    "durationInFrames": 156,
+    "killer": "Ashborn",
+    "weapon": "Headhunter",
+    "headshot": true,
+    "time_str": "16-10-15",
+    "actionText": "HEADHUNTER ONE-TAP \ud83c\udfaf",
+    "subText": "CHAMBER POCKET GUARDIAN DIFF"
+  },
+  {
+    "index": 5,
+    "file": "deaths/death_05.mp4",
+    "durationInFrames": 156,
+    "killer": "Perambur Puluthi",
+    "weapon": "Ghost",
+    "headshot": true,
+    "time_str": "16-00-19",
+    "actionText": "PISTOL ROUND DINK \ud83d\udc7b",
+    "subText": "GHOST HEADSHOT WELCOME TO CORRODE"
+  },
+  {
+    "index": 6,
+    "file": "deaths/death_06.mp4",
+    "durationInFrames": 156,
+    "killer": "Perambur Puluthi",
+    "weapon": "Phantom",
+    "headshot": true,
+    "time_str": "16-24-10",
+    "actionText": "WHERE DID HE COME FROM?! \u2753",
+    "subText": "PHANTOM SPRAY FROM THE SHADOWS"
+  },
+  {
+    "index": 7,
+    "file": "deaths/death_07.mp4",
+    "durationInFrames": 156,
+    "killer": "I am",
+    "weapon": "Operator",
+    "headshot": true,
+    "time_str": "16-35-00",
+    "actionText": "PEEKED THE OP AGAIN \ud83e\udd21",
+    "subText": "DID NOT LEARN THE FIRST TIME"
+  },
+  {
+    "index": 8,
+    "file": "deaths/death_08.mp4",
+    "durationInFrames": 156,
+    "killer": "daddyzdanny",
+    "weapon": "Aeris Vandal",
+    "headshot": true,
+    "time_str": "16-04-37",
+    "actionText": "TIMING DEMON \u23f3",
+    "subText": "LOOKED AWAY FOR 0.1 SECONDS"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "index": 1,
+    "file": "all_kills/kill_01.mp4",
+    "durationInFrames": 156,
+    "weapon": "Aeris Vandal",
+    "victim": "Ashborn",
+    "headshot": true,
+    "time_str": "16-02-37",
+    "actionText": "KILL #01 // \ud83c\udfaf 1-TAP",
+    "subText": "AERIS VANDAL VS ASHBORN"
+  },
+  {
+    "index": 2,
+    "file": "all_kills/kill_02.mp4",
+    "durationInFrames": 156,
+    "weapon": "Aeris Vandal",
+    "victim": "Ashborn",
+    "headshot": true,
+    "time_str": "16-06-07",
+    "actionText": "KILL #02 // \ud83c\udfaf 1-TAP",
+    "subText": "AERIS VANDAL VS ASHBORN"
+  },
+  {
+    "index": 3,
+    "file": "all_kills/kill_03.mp4",
+    "durationInFrames": 156,
+    "weapon": "Aeris Vandal",
+    "victim": "shadow0908",
+    "headshot": false,
+    "time_str": "16-09-30",
+    "actionText": "KILL #03 // DELETED",
+    "subText": "AERIS VANDAL VS SHADOW0908"
+  },
+  {
+    "index": 4,
+    "file": "all_kills/kill_04.mp4",
+    "durationInFrames": 156,
+    "weapon": "Phantom",
+    "victim": "shadow0908",
+    "headshot": true,
+    "time_str": "16-13-05",
+    "actionText": "KILL #04 // \ud83c\udfaf 1-TAP",
+    "subText": "PHANTOM VS SHADOW0908"
+  },
+  {
+    "index": 5,
+    "file": "all_kills/kill_05.mp4",
+    "durationInFrames": 156,
+    "weapon": "Aeris Vandal",
+    "victim": "shadow0908",
+    "headshot": false,
+    "time_str": "16-17-02",
+    "actionText": "KILL #05 // DELETED",
+    "subText": "AERIS VANDAL VS SHADOW0908"
+  },
+  {
+    "index": 6,
+    "file": "all_kills/kill_06.mp4",
+    "durationInFrames": 156,
+    "weapon": "Classic",
+    "victim": "daddyzdanny",
+    "headshot": false,
+    "time_str": "16-20-09",
+    "actionText": "KILL #06 // DELETED",
+    "subText": "CLASSIC VS DADDYZDANNY"
+  },
+  {
+    "index": 7,
+    "file": "all_kills/kill_07.mp4",
+    "durationInFrames": 156,
+    "weapon": "Aeris Vandal",
+    "victim": "Ashborn",
+    "headshot": true,
+    "time_str": "16-21-39",
+    "actionText": "KILL #07 // \ud83c\udfaf 1-TAP",
+    "subText": "AERIS VANDAL VS ASHBORN"
+  },
+  {
+    "index": 8,
+    "file": "all_kills/kill_08.mp4",
+    "durationInFrames": 156,
+    "weapon": "Aeris Vandal",
+    "victim": "I am",
+    "headshot": true,
+    "time_str": "16-22-26",
+    "actionText": "KILL #08 // \ud83c\udfaf 1-TAP",
+    "subText": "AERIS VANDAL VS I AM"
+  },
+  {
+    "index": 9,
+    "file": "all_kills/kill_09.mp4",
+    "durationInFrames": 156,
+    "weapon": "Aeris Vandal",
+    "victim": "I am",
+    "headshot": true,
+    "time_str": "16-26-13",
+    "actionText": "KILL #09 // \ud83c\udfaf 1-TAP",
+    "subText": "AERIS VANDAL VS I AM"
+  },
+  {
+    "index": 10,
+    "file": "all_kills/kill_10.mp4",
+    "durationInFrames": 156,
+    "weapon": "Aeris Vandal",
+    "victim": "shadow0908",
+    "headshot": false,
+    "time_str": "16-29-19",
+    "actionText": "KILL #10 // DELETED",
+    "subText": "AERIS VANDAL VS SHADOW0908"
+  }
+]
